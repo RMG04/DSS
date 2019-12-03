@@ -2,7 +2,7 @@
 This is our project for Dev Catalyst! DSS stands for Disarm-able Security System. Our project includes a button code, LED's, and a disarm-able alarm! If the motion sensor detects motion, the buzzer goes off, then red and blue lights are lit to resemble cop lights (Funny right?). If the button combination that is coded into the pi is pressed, then the buzzer and lights turn off, and the system resets for 60 seconds, giving you time to get what you need and get out.
 
 ## Info about my group and I
-My name is Rosanna Gamble and i worked with a group of 3 with Eli(jah) Rainey and Ashton Thomas!
+My name is Rosanna Gamble and I worked with a group of 3 with Eli(jah) Rainey and Ashton Thomas!
 I go to Hardin County High School and I am a part of the Hardware Dev competetion.
 Ashton researched all the parts we used, as well as code that may be helpful. Eli set up our hardware, which is setting everything up on the breadboard, and I was the lead for the code, but Eli and Ashton helped with some details. I can't forget Mr. Stang (our teacher) that reminded us that "and" statements exist!
 
