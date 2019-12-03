@@ -6,7 +6,7 @@ My name is Rosanna Gamble and i worked with a group of 3 with Eli(jah) Rainey an
 I go to Hardin County High School and I am a part of the Hardware Dev competetion.
 Ashton researched all the parts we used, as well as code that may be helpful. Eli set up our hardware, which is setting everything up on the breadboard, and I was the lead for the code, but Eli and Ashton helped with some details. I can't forget Mr. Stang (our teacher) that reminded us that "and" statements exist!
 
-##Problems we encountered
+## Problems we encountered
 Honestly, the hardest part our project was the code, we could get the buzzer to go off, and we could get the LED's to come on, but the button combination just never worked! This project had started to put stress on us and we were afraid we wouldn't get it done in time. Then we remembered that we could define functions, and Mr. Stang reminded us about "and' statements, so uor functions "Intruder" and "Disarm" was born!
 
 ## Info about me
