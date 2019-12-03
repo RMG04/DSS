@@ -1,6 +1,5 @@
 from gpiozero import Button, Buzzer, MotionSensor, LED
 from time import sleep
-from picamera import PiCamera
 
 
 red = Button(14)
